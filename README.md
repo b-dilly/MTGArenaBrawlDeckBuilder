@@ -23,7 +23,7 @@ In the ALL CARD ARRAYS region, you'll see arrays containing card names. Add/Remo
 ### Explainations:
   nonlandsToRemove - Add/Remove cards from this array if you would like to exclude them from being added to the deck list
   
-  landsToRemove - Same idea, but with lands. These two arrays can be combines, but mixing lands and nonlands are messy in my opinion
+  landsToRemove - Same idea, but with lands. These two arrays can be combined, but mixing lands and nonlands is messy in my opinion
   
   cRocks_cmc2 - Rocks/Cards that initially get added. They don't have to be 2cmc. You can throw whatever rocks you want in here.
   
