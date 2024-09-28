@@ -6,9 +6,14 @@ When you run the script, a UI pops up and allows you to select a brawl deck to g
 
 ## How it Works
 After you select your sommander and click "Select Commander", an api request is made querying the commander's name from EDHRec's api.
+
 The api request returns the commander's color identity, and uses that to determine which cards from the ALL CARD ARRAYS region to add.
-All cards in the cRocks_cmc2 array are automatically added, followed by the color's removal, then the color's staples. If the commander's cmc is greater than 4, cards from the cRocks_cmc4 array are added. In this script, there is only one, but you can add more.
+
+All cards in the cRocks_cmc2 array are automatically added, followed by the color's removal, then the color's staples. If the commander's cmc is greater than 4, cards from the cRocks_cmc4 array are added. In 
+this script, there is only one, but you can add more.
+
 Adds all cards with the highest synergy values until it adds 61 nonlands. 
+
 Adds all rare lands until it can't find any more OR it adds 38 lands. If it doesn't find 38 lands, it then fills the list with the appropriate basics until it adds 38 lands.
 
 ## How to Customize
