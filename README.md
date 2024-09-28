@@ -16,11 +16,17 @@ You can customize which cards get added/excluded before the deckbuilder generate
 In the ALL CARD ARRAYS region, you'll see arrays containing card names. Add/Remove cards from these arrays to control which cards are added/excluded.
 Explainations:
   nonlandsToRemove - Add/Remove cards from this array if you would like to exclude them from being added to the deck list
+  
   landsToRemove - Same idea, but with lands. These two arrays can be combines, but mixing lands and nonlands are messy in my opinion
+  
   cRocks_cmc2 - Rocks/Cards that initially get added. They don't have to be 2cmc. You can throw whatever rocks you want in here.
+  
   cRocks_cmc4 - Rocks/Cards that get added when the commander's cmc is greater than 4
+  
   xRemoval - Removal cards I frequesntly add when building a deck. Every deck starts out with 6 removal spells.
+  
   xStaples - Same idea, but with staples. Every deck starts with 6 staples
+  
   xFiller - Currently not in use, but contains useful cards. 
 
 ## Limitations
