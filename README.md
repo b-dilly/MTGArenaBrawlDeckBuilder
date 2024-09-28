@@ -15,7 +15,7 @@ All cards in the cRocks_cmc2 array are automatically added, followed by the colo
 this script, there is only one, but you can add more. 
 Adds all cards with the highest synergy values until it adds 61 nonlands. 
 
-Adds all rare lands until it can't find any more OR it adds 38 lands. If it doesn't find 38 lands, it then fills the list with the appropriate basics until it adds 38 lands.
+Adds all rare lands until it can't find any more OR until it adds 38 lands. If it doesn't find 38 lands, it then fills the list with the appropriate basics until it adds 38 lands.
 
 ## How to Customize
 You can customize which cards get added/excluded before the deckbuilder generates a deck.
