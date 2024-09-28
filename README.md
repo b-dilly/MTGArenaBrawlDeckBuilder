@@ -19,7 +19,8 @@ Adds all rare lands until it can't find any more OR it adds 38 lands. If it does
 ## How to Customize
 You can customize which cards get added/excluded before the deckbuilder generates a deck.
 In the ALL CARD ARRAYS region, you'll see arrays containing card names. Add/Remove cards from these arrays to control which cards are added/excluded.
-Explainations:
+
+### Explainations:
   nonlandsToRemove - Add/Remove cards from this array if you would like to exclude them from being added to the deck list
   
   landsToRemove - Same idea, but with lands. These two arrays can be combines, but mixing lands and nonlands are messy in my opinion
