@@ -38,3 +38,4 @@ In the ALL CARD ARRAYS region, you'll see arrays containing card names. Add/Remo
 
 ## Limitations
 Since this deck builder only generates decks using EDHRec's database, MTGArena's Alchemy cards must be manually added. You also cannot create a brawl deck using Planeswalkers.
+
